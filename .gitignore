@@ -1,4 +1,13 @@
 #################
+## GitHub
+#################
+
+.gitattributes
+.gitignore
+README.md
+enunciado.pdf
+
+#################
 ## Eclipse
 #################
 
