@@ -9,4 +9,4 @@ The specification of the problem can be found here (only in Portuguese): https:/
 
 © Carlos Carvalho (https://github.com/bukjir/)
 
-© Daniel Sil
+© Daniel Sil (https://github.com/DSil/)
